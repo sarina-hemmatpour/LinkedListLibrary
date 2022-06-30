@@ -1,0 +1,3 @@
+/home/rolijesoo/LinkList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rolijesoo/LinkList/cmake-build-debug/CMakeFiles/LinkList.dir
+/home/rolijesoo/LinkList/cmake-build-debug/CMakeFiles/edit_cache.dir
